@@ -6,5 +6,6 @@ CREATE TABLE `users`
 );
 
 INSERT INTO `users` (`name`)
-VALUES ('Solomon'),
-       ('Menelik');
+VALUES ('Faj Mccain'),
+       ('Freddy KRUGER'),
+       ('Frank Anthony');

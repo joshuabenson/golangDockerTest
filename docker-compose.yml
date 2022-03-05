@@ -16,7 +16,7 @@ services:
     # setting some env vars to create the DB
     environment:
       MYSQL_RANDOM_ROOT_PASSWORD: "secret"
-      MYSQL_DATABASE: "test"
+      MYSQL_DATABASE: "josh_db"
       MYSQL_USER: "tester"
       MYSQL_PASSWORD: "secret"
       # OR if you want to use "root" as the user, just these two lines
