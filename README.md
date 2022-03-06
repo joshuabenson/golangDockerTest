@@ -2,11 +2,11 @@
 Cloned from https://github.com/icodestuff-io/golang-docker-tutorial
 
 ## Endpoints
-###/users
+### /users
 queries table with "SELECT * FROM users"
 returns
-####id
-####name
+#### id
+#### name
 
-###/homepage
+### /homepage
 prints welcome message
