@@ -1,2 +1,12 @@
-# Go Docker MySQL
-In this tutorial, I show you how to set up a Golang API with a database powered by Docker. 
+# Go Docker Mysql CRUD
+Cloned from https://github.com/icodestuff-io/golang-docker-tutorial
+
+## Endpoints
+###/users
+queries table with "SELECT * FROM users"
+returns
+####id
+####name
+
+###/homepage
+prints welcome message
